@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="MarketMini-main/MarketMini/src"/>
+	<classpathentry kind="lib" path="MarketMini-main/MarketMini/lib/io-7.0.0.jar"/>
+	<classpathentry kind="lib" path="MarketMini-main/MarketMini/lib/itextpdf-5.5.9.jar"/>
+	<classpathentry kind="lib" path="MarketMini-main/MarketMini/lib/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="MarketMini-main/MarketMini/lib/jcommon-1.0.23.jar"/>
+	<classpathentry kind="lib" path="MarketMini-main/MarketMini/lib/jfreechart-1.0.19.jar"/>
+	<classpathentry kind="lib" path="MarketMini-main/MarketMini/lib/kernel-7.0.0.jar"/>
+	<classpathentry kind="lib" path="MarketMini-main/MarketMini/lib/layout-7.0.0.jar"/>
+	<classpathentry kind="lib" path="MarketMini-main/MarketMini/lib/LGoodDatePicker-10.4.1.jar"/>
+	<classpathentry kind="lib" path="MarketMini-main/MarketMini/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="MarketMini-main/MarketMini/lib/mysql-connector-java-5.1.44-bin.jar"/>
+	<classpathentry kind="lib" path="MarketMini-main/MarketMini/lib/slf4j-api-1.7.13.jar"/>
+	<classpathentry kind="lib" path="MarketMini-main/MarketMini/lib/slf4j-log4j12-1.7.18.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
